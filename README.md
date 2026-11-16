@@ -98,9 +98,5 @@ Busco minha primeira oportunidade profissional na área de TI para colocar meus 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:020617&height=100&section=footer" width="100%"/>
 
-### `LIMITLESS POSSIBILITIES`
-
-<sub>Building my own infinity, one line of code at a time.</sub>
-
 </div>
 
