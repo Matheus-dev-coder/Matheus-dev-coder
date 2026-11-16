@@ -50,6 +50,12 @@ Olá! Sou Matheus, estudante de Análise e Desenvolvimento de Sistemas.
 
 Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimento web e tecnologia por meio de estudos e projetos pessoais.
 
+Minha trajetória na área de TI envolve o aprendizado de diferentes tecnologias, desde a estruturação de páginas web até a lógica de programação, desenvolvimento de aplicações e gerenciamento de bancos de dados.
+
+Tenho conhecimentos em **HTML, CSS, JavaScript, React, Python, PHP e MySQL**, além de estar aprofundando meus estudos em Node.js e desenvolvimento back-end.
+
+Também possuo conhecimentos em **montagem, manutenção e configuração de computadores**, o que amplia minha visão sobre tecnologia, tanto na parte de software quanto de hardware.
+
 Busco minha primeira oportunidade profissional na área de TI para colocar meus conhecimentos em prática e continuar evoluindo.
 
 ---
