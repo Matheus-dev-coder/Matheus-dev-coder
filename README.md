@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:38bdf8&height=200&section=header&text=INFINITY%20DEVELOPER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="./gojo-seis-olhos.gif" width="300">
 
 # Matheus Augusto Viana
 
