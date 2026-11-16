@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./gojo-seis-olhos.gif" width="300">
+<img src="./gojo-seis-olhos.gif" width="100%">
 
 # Matheus Augusto Viana
 
