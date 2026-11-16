@@ -54,7 +54,7 @@ Busco minha primeira oportunidade profissional na área de TI para colocar meus 
 
 ---
 
-## 02. // TECH ARSENAL
+## 02. // CONHECIMENTOS...
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Busco minha primeira oportunidade profissional na área de TI para colocar meus 
 
 
 
-## 04. // CONNECT WITH ME
+## 04. // MINHAS REDES...
 
 <div align="center">
 
