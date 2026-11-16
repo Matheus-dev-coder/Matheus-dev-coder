@@ -72,24 +72,7 @@ Busco minha primeira oportunidade profissional na área de TI para colocar meus 
 
 </div>
 
----
 
-## 03. // GITHUB STATISTICS
-
-<div align="center">
-
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Matheus-dev-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1"/>
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Matheus-dev-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1"/>
-
-</div>
-
-</div>
-
----
 
 ## 04. // CONNECT WITH ME
 
