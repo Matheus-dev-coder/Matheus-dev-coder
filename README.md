@@ -1,84 +1,87 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:38bdf8&height=200&section=header&text=INFINITY%20DEVELOPER&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
 # Matheus Augusto Viana
 
-### Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
+### Desenvolvedor em formação | ADS
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:7f1d1d,100:dc2626&height=180&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
-</p>
+*「 O impossível é apenas uma questão de perspectiva. 」*
 
-**Transformando ideias em código e projetos em realidade.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvimento+Web;Transformando+ideias+em+c%C3%B3digo;Explorando+novas+tecnologias;Building+my+own+infinity..." />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🔵 Sobre mim
 
-Olá! Sou Matheus Augusto Viana, estudante de Análise e Desenvolvimento de Sistemas (ADS).
+Olá! Sou **Matheus Augusto Viana**, estudante de Análise e Desenvolvimento de Sistemas.
 
-Estou desenvolvendo minhas habilidades na área de tecnologia, com foco em desenvolvimento web, programação e infraestrutura de computadores.
+Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento web, criando projetos e explorando novas tecnologias.
 
-Atualmente, busco minha primeira oportunidade profissional na área de TI, onde possa aplicar meus conhecimentos e continuar evoluindo.
+Meu objetivo é conquistar minha primeira oportunidade profissional na área de TI e continuar evoluindo como desenvolvedor.
 
 - 🎓 Análise e Desenvolvimento de Sistemas.
-- 💻 Foco em desenvolvimento web.
-- 🔧 Conhecimentos em montagem e manutenção de computadores.
-- 🚀 Sempre desenvolvendo novos projetos.
+- 💻 Desenvolvimento Web.
+- 🔧 Montagem e manutenção de computadores.
+- 🚀 Desenvolvimento de projetos pessoais.
 - 🎯 Em busca da primeira oportunidade em TI.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## ⚡ Arsenal tecnológico
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38bdf8)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38bdf8)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
+![NodeJS](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌀 Estatísticas
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Matheus-dev-coder&show_icons=true&theme=transparent&hide_border=true&title_color=dc2626&icon_color=dc2626&text_color=ffffff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-dev-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-dev-coder&layout=compact&theme=transparent&hide_border=true&title_color=dc2626&text_color=ffffff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-dev-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8"/>
 
 </div>
 
 ---
 
-## 🌐 Contato
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
 <a href="https://github.com/Matheus-dev-coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8"/>
 </a>
 
 <a href="https://linkedin.com/in/matheus-augusto-3977462b8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
 </a>
 
 </div>
 
 <div align="center">
 
-**Obrigado pela visita! 🚀**
+### 🔵 LIMITLESS POSSIBILITIES
+
+*Building my own infinity, one line of code at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:020617&height=100&section=footer" width="100%"/>
 
 </div>
-
