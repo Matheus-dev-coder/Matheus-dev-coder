@@ -29,7 +29,7 @@
 
 </div>
 
-## 01. // ABOUT ME
+## 01. // SOBRE MIM...
 
 ```javascript
 const matheus = {
